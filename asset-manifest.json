@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/react-render-props/static/css/main.12dc062e.chunk.css",
+    "main.js": "/react-render-props/static/js/main.485d7bb1.chunk.js",
+    "main.js.map": "/react-render-props/static/js/main.485d7bb1.chunk.js.map",
+    "runtime-main.js": "/react-render-props/static/js/runtime-main.69ca90be.js",
+    "runtime-main.js.map": "/react-render-props/static/js/runtime-main.69ca90be.js.map",
+    "static/js/2.8398f777.chunk.js": "/react-render-props/static/js/2.8398f777.chunk.js",
+    "static/js/2.8398f777.chunk.js.map": "/react-render-props/static/js/2.8398f777.chunk.js.map",
+    "index.html": "/react-render-props/index.html",
+    "precache-manifest.54a1c8d81d17f4fecc04a862f2f8b7ab.js": "/react-render-props/precache-manifest.54a1c8d81d17f4fecc04a862f2f8b7ab.js",
+    "service-worker.js": "/react-render-props/service-worker.js",
+    "static/css/main.12dc062e.chunk.css.map": "/react-render-props/static/css/main.12dc062e.chunk.css.map",
+    "static/media/cat.svg": "/react-render-props/static/media/cat.15e989ae.svg",
+    "static/media/logo.svg": "/react-render-props/static/media/logo.25bf045c.svg"
+  }
+}
