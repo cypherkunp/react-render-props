@@ -1,0 +1,29 @@
+.app {
+    text-align: center;
+    background-color: #282c34;
+    min-height: 100vh;
+}
+
+.app-logo {
+    height: 48px;
+    width: 48px;
+    margin: 10px;
+}
+
+.app-header {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    height: 5vh;
+    color: white;
+}
+
+.app-body {
+    margin: 20px 50px;
+    font-size: calc(10px + 1vmin);
+    color: white;
+    height: 60vh;
+    max-height: 60vh;
+    max-width: 90vw;
+}
